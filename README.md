@@ -1,0 +1,2 @@
+# SwayamPhadatarePortfolio
+open my portfolio
